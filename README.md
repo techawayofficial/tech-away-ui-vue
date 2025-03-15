@@ -25,8 +25,10 @@ Ensure you have the following installed:
 ### **Installation**
 Clone the repository and install dependencies:
 ```sh
-git clone https://github.com/your-github-username/tech-away-ui.git
+git clone https://github.com/techawayofficial/tech-away-ui-vue.git
+
 cd tech-away-ui
+
 yarn install
 # OR
 npm install
@@ -50,7 +52,7 @@ npm run build
 
 ## 📂 Project Structure
 ```plaintext
-tech-away-ui/
+tech-away-ui-vue/
 │── public/             # Static assets
 │── src/
 │   ├── assets/         # Images, icons, styles
@@ -89,4 +91,4 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 ## 📞 Contact
 For inquiries or support, reach out at:
 - **Website**: [tech-away.co.za](https://tech-away.co.za)
-- **GitHub Issues**: Open a ticket [here](https://github.com/your-github-username/tech-away-ui/issues)
+- **GitHub Issues**: Open a ticket [here](https://github.com/techawayofficial/tech-away-ui-vue/issues)
